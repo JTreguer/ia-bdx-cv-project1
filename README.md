@@ -61,7 +61,6 @@ Les données sont volumineuses, elles seront fournies sur clé USB (ou télécha
 Les développements se feront dans des notebooks Jupyter. Il y a 2 possibilités :
 
 - Installer Anaconda sur sa machine et travailler en local dans un répertoire que l'on mettra sur github à terme
--
 
 - Ouvrir un compte gratuit sur [Azure Notebooks](https://notebooks.azure.com/), si vous avez déjà un compte personnel microsoft vous pouvez l'utiliser. Ensuite créer un notebook.
 
